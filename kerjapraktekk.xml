@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+kerjapraktekk
+</name>
+</assembly>
+<members>
+<member name="T:kerjapraktekk.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.kisspng_academic_writing_essay_writer_homework_book_report_5b1d6a085a6950_8685502915286543443703">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.kisspng_computer_icons_annual_report_reports_5b1513e2b64bc1_7183331215281080027467">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.sedang_dikerjakan_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.WhatsApp_Image_2023_01_29_at_08_15_45__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.WhatsApp_Image_2023_01_29_at_08_15_45__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.WhatsApp_Image_2023_01_29_at_08_15_46">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.WhatsApp_Image_2023_01_29_at_08_15_46__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:kerjapraktekk.My.Resources.Resources.WhatsApp_Image_2023_01_29_at_08_15_46__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
